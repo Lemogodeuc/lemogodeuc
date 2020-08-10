@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, I'm Quentin 👋
+___
 
-<!--
-**Lemogodeuc/lemogodeuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Some tools I use](https://github.com/Lemogodeuc/lemogodeuc/blob/master/assets/header.jpg?raw=true "Header")
 
-Here are some ideas to get you started:
+I'm currently learning Javascript and also about to finish my fullstack JS training with a data specialization thanks to [O'Clock](https://oclock.io/). I'll be working on a great team project for the next month. There will be a live presentation on Youtube, I will communicate the date when i'll know about it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+Beside, i'm also currently working on a personnal project, the concern is an equestrian network. This project allows me to evolve on both sides (backend and frontend), and also train with multiple technologies such as :
+
+## Backend
+
+* Express - Node.JS web framework
+* Apollo server 2.0 - As an add-on to Express server (GraphQL)
+* MongoDB - NoSQL database (under study for a migration to PostgreSQL database and Sqitch for migrations plans)
+* Mocha - Test framework
+* Chai - BDD / TDD assertion library (working with Mocha)
+
+## Frontend
+
+* React
+* Apollo client 3.0 - Graphql client
+* Material UI - React UI framework
+
+## Environement
+
+* NodeJS
+* Git
+
+As well, i'll give the link project as soon the MVP is stable and deployed. The project is private but i'll show some parts of the code, so you will have an idea of how I develop.
