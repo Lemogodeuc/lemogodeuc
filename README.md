@@ -1,9 +1,10 @@
 ### Hi, I'm Quentin 👋
 ___
 
-![Some tools I use](https://github.com/Lemogodeuc/lemogodeuc/blob/master/assets/header.jpg?raw=true "Header")
+![Some tools I use](https://github.com/Lemogodeuc/lemogodeuc/blob/master/assets/resume-header-js?raw=true "Header")
 
-I'm currently learning Javascript and also about to finish my fullstack JS training with a data specialization thanks to [O'Clock](https://oclock.io/). I'll be working on a great team project for the next month. There will be a live presentation on Youtube, I will communicate the date when i'll know about it.
+I'm currently learning Javascript and also about to finish my fullstack JS training with a data specialization thanks to [O'Clock](https://oclock.io/). I'll be working on a great team project for the next month. There will be a live presentation on [Youtube](https://lnkd.in/d4GNujE), today at 5.30pm at Paris time.
+
 
 ___
 
