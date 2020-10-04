@@ -25,7 +25,7 @@ For my very first notable experience, i've been working on a great project [iTon
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client
 * [Semantic UI](https://semantic-ui.com/) - Frontend Framework
 
-## Miscllaneous
+## Miscellaneous
 
 * [Git](https://git-scm.com/) - Code versionning
 * [Jwt](https://jwt.io/) - Json Web Tokens
