@@ -1,7 +1,7 @@
 ### Hi, I'm Quentin 👋
 ___
 
-![Some tools I use](https://raw.githubusercontent.com/Lemogodeuc/lemogodeuc/master/assets/header.jpg "Header")
+![Some tools I use](https://raw.githubusercontent.com/Lemogodeuc/lemogodeuc/master/assets/Header.jpg "Header")
 
 I just finished my fullstack JavaScript training with a data specialization thanks to [O'Clock](https://oclock.io/). 
 
